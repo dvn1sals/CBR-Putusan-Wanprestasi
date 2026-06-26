@@ -1,0 +1,37 @@
+[
+    {
+        "query_id": 31,
+        "query_text": ": , tanggal 25 september 2024 yangamarnya berbunyi sebagai berikut:hal 2 dari 8 putusan no 825/pdt/2024/pt sby putusan.mahkamahagung.go.id mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia mahkamah agung republik indonesia pelaksanaan fungsi peradilan. namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang kami sajikan, hal mana akan ter",
+        "ground_truth_case_id": [
+            31
+        ]
+    },
+    {
+        "query_id": 19,
+        "query_text": "tertanggal 24mei 2019 dan terdaftar di kepaniteraan pengadilan negeri surabaya tanggal31 mei 2019 dibawah register perkara no.552/pdt.g/2019/pn.sby., sertatelah mengajukan perbaikan gugatan dalam perkarano.552/pdt.g/2019/pn.sby, tertanggal 09 september 2019 telahmengemukakan dalil-dalil sebagai berikut:1. bahwa,tergugat telah berhutang kepada penggugat uangsebesar rp.1.000.000.000, -(satu milyar rupiah) sebagaimana tertuangdi dalam akta nomor.283 perjanjian pengakuan hutang, tanggal 22desember 2",
+        "ground_truth_case_id": [
+            19
+        ]
+    },
+    {
+        "query_id": 27,
+        "query_text": "tertanggal 28 juni2016, yang terdaftar di kepaniteraan pengadilan negeri surabaya pada tanggal 28 juni2016 dibawah register no. no. 510/pdt.g/2016/pn.sby, telah mengajukan gugatandengan dalil-dalil sebagai berikut :1.bahwa seluruh apa yang telah terurai dalam eksepsi dianggap terulang kembaliseluruhnya dan merupakan bagian yang tak terpisahkan dalam pokokperkara ini ;2.bahwa terlebih dahulu penggugat kemukakan, sebelum penggugatmenandatangani spk nomor: 007/x/batu/2014 dengan tergugat i, terguga",
+        "ground_truth_case_id": [
+            27
+        ]
+    },
+    {
+        "query_id": 21,
+        "query_text": "untuk seluruhnya;2.menyatakan sah dan berharga sita jaminan yang diletakkan atastanah dan bangunan yang terletak di mojokerto, kecamatan prajuritkulon, kelurahan mentikan yang dikenal dengan jalan brawijaya176, sertifikat hak milik no 539 dengan batas-batas:sebelah utara milik h. nurhamid, sebelah selatan milik h.sugeng, sebelah timur jalan brawijaya, sebelah barat tanggul;3.menyatakan bahwa para terggugat dan turut tergugatadalah wanprestasi;4.menghukum para tergugat dan turut tergugat dan / at",
+        "ground_truth_case_id": [
+            21
+        ]
+    },
+    {
+        "query_id": 12,
+        "query_text": "tersebut diatas, maka penggugatmohon agar kiranya yth. ketua pengadilan negeri gresik cq majelis hakim yangmemeriksa perkara a quo berkenan memeriksa dan selanjutnya memutuskan :1.mengabulkan gugatan penggugat untuk seluruhnya;2.menyatakan perbuatan tergugat i dan tergugat ii adalah merupakanperbuatan wanprestasi.3.menghukum para tergugat :mengembalikan uang milik penggugat sebesar rp. 145.000.000,- membayarkan bunga/manfaat 5% yang telah disepakati yangdiperoleh dari pengelolaan uang tersebut",
+        "ground_truth_case_id": [
+            12
+        ]
+    }
+]
