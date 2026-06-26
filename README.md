@@ -9,6 +9,10 @@ Proyek implementasi sistem Case-Based Reasoning (CBR) berbasis Python yang diran
 4. Tahap 4 (Case Solution Reuse): Pemninjaman solusi menggunakan pendekatan Weighted Similarity untuk merumuskan rekomendasi amar keputusan bagi kasus hukum baru.
 5. Tahap 5 (Model Evaluation): Proses evaluasi performa model menggunakan library scikit-learn dan analisis kritis kegagalan sistem.
 
+# Petunjuk Instalasi & Eksekusi Pipeline
+- Pemasangan Library : Jalankan perintah **pip install pdfminer.six pandas numpy scikit-learn** pada terminal atau sel kode untuk menginstal seluruh Library pendukung.
+- Eksekusi Pipeline: Hubungkan Google Drive (mount drive) ke Google Colab, lalu buka dan jalankan berkas Jupyter Notebook di folder __notebooks/__ secara berurutan mulai dari Tahap 1 sampai Tahap 5.
+
 # Hasil Evaluasi Metrik Retrieval
 
 - Accuracy : 0.00 (0%)
